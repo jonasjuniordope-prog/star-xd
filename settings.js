@@ -3,7 +3,7 @@
 export default {
   // PUT YOUR SESSION ID BELOW (Required)
   // Get from: https://star.malvintech.sbs/
-  SESSION_ID: 22990399287 "",
+  SESSION_ID: dope "MRMA-LVIN",
 [![Build and Push to Quay.io](https://github.com/jonasjuniordope-prog/star-xd/actions/workflows/docker-build.yml/badge.svg)](https://github.com/jonasjuniordope-prog/star-xd/actions/workflows/docker-build.yml)
   // PUT YOUR REMOVE BACKGROUND KEY (Optional)
   // Get from: https://remove.bg/api
@@ -11,7 +11,7 @@ export default {
 
   // If you don't have session id, use pairing code
   // Put your WhatsApp number here (without +)
-  PAIRING_NUMBER: "",
+  PAIRING_NUMBER: "+2290190399287",
   
   SESSION_SITE: "https://pair.malvintech.sbs",
 
@@ -45,7 +45,7 @@ export default {
   BOT_NAME: "sᴛᴀʀ-xᴅ",
 
   // Add Owner WhatsApp Number (without +)
-  OWNER_NUMBER: "263725787000",
+  OWNER_NUMBER: "2290190399287",
 
   // Command Mode: "public" or "private"
   // private = only owner can use commands
