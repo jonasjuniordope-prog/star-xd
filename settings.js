@@ -3,7 +3,7 @@
 export default {
   // PUT YOUR SESSION ID BELOW (Required)
   // Get from: https://star.malvintech.sbs/
-  SESSION_ID: "",
+  SESSION_ID: 22990399287 "",
 
   // PUT YOUR REMOVE BACKGROUND KEY (Optional)
   // Get from: https://remove.bg/api
