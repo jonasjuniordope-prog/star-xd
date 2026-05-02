@@ -4,7 +4,7 @@ export default {
   // PUT YOUR SESSION ID BELOW (Required)
   // Get from: https://star.malvintech.sbs/
   SESSION_ID: 22990399287 "",
-
+[![Build and Push to Quay.io](https://github.com/jonasjuniordope-prog/star-xd/actions/workflows/docker-build.yml/badge.svg)](https://github.com/jonasjuniordope-prog/star-xd/actions/workflows/docker-build.yml)
   // PUT YOUR REMOVE BACKGROUND KEY (Optional)
   // Get from: https://remove.bg/api
   REMOVEBG_KEY: "",
